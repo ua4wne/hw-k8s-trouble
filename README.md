@@ -1,1 +1,16 @@
-# hw-k8s-trouble
+# Домашнее задание к занятию Troubleshooting
+
+## Цель задания
+
+Устранить неисправности при деплое приложения.
+
+## Чеклист готовности к домашнему заданию
+
+1. Кластер K8s.
+
+## Задание. При деплое приложение web-consumer не может подключиться к auth-db. Необходимо это исправить
+
+1. Установить приложение по команде:
+
+>kubectl apply -f https://raw.githubusercontent.com/netology-code/kuber-homeworks/main/3.5/files/task.yaml
+
